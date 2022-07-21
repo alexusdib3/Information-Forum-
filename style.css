@@ -1,0 +1,61 @@
+body,
+main,
+footer,
+
+header   {
+    background-color: #f9f7db;
+color: #363551;
+font-family: Times;
+padding: 0.5%;
+margin: 0.5%;
+}
+header {
+  background-color: #f9f7db;
+  border-bottom: 3px solid #5b4b8a;
+}
+h1 {
+  font-size: 52px;
+  margin: 0;
+  padding: 8px 0;
+  font-family: "Times";
+  font-weight: lighter;
+}
+header {
+  text-align: center;
+}
+.firstname {
+  text-align: center;
+  font-size: 15x;
+  padding: auto;
+  margin: auto;
+  width: auto;
+  border: 4px solid #363551;
+  border-radius: 10px;
+}
+.lastname{
+  text-align: center;
+  font-size: 15x;
+  padding: auto;
+  margin: auto;
+  width: auto;
+  border: 4px solid #363551;
+  border-radius: 10px;
+}
+.age {
+  text-align: center;
+  font-size: 15x;
+  padding: auto;
+  margin: auto;
+  width: auto;
+  border: 4px solid #363551;
+  border-radius: 10px;
+}
+
+input {
+  background-color: rgb(255, 254, 252);
+  color: rgb(0, 0, 0);
+  border: 4px solid #363551;
+  border-radius: 3px;
+  height: 26px;
+  font-size: 15px;
+}
